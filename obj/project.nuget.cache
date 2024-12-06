@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNAfewqcx9k=",
+  "success": true,
+  "projectFilePath": "F:\\DOT_NET_PROJECTS\\dotnet_core_C#\\console\\Establish_Connection_with_MS_ACCESS_DB_using_OLEDB_in_ADO_Dotnet\\Establish_Connection_with_MS_ACCESS_DB_using_OLEDB_in_ADO_Dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
